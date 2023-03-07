@@ -11,3 +11,9 @@ li {
 }
 The content of this web page is tracked by Kosal’s old personal web page: https://sites.google.com/site/nithkosal/. This new website was designed using templates and Code this free access and download from Sebastián Otero, a PhD candidate in economics from Stanford University.
 
+h1 {
+  margin: 0;
+  padding: 20px 0;
+  color: #00539f;
+  text-shadow: 3px 3px 1px black;
+}
